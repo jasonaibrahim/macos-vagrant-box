@@ -5,7 +5,7 @@ vm_name="${box}"
 version="$2"
 description="$3"
 
-org="ramsey"
+org="xylophone"
 org_box="${org}/${box}"
 provider="virtualbox"
 box_file="$(pwd)/package.box"
